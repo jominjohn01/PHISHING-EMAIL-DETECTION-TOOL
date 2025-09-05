@@ -1,0 +1,11 @@
+Email Text,Prediction,Domain Age (days)
+"Dear user, urgent! Please login to verify your account: http://badlink.com",Phishing Email,9317
+"Dear user, urgent! Please login to verify your account: http://badlink.com",Phishing Email,9317
+"Dear user, urgent! Please login to verify your account: http://badlink.com",Phishing Email,9317
+"Dear user, urgent! Please login to verify your account: http://badlink.com",Phishing Email,9317
+2025-08-09 19:06:37,"
+    URGENT: Your account will be suspended!
+    
+    Dear Customer,
+    
+    We have detected suspi...",Safe Email,50.69%,0
